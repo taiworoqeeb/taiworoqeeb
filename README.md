@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/his.
 - ⚡ Fun fact: Did you know that the first computer programmer was Ada Lovelace, who wrote the world's first algorithm intended for implementation on Charles Babbage's Analytical Engine in the mid-1800s? She's considered the world's first computer programmer!
 
-[![Abdulraqeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiworoqeeb&count_private=true&show_icons=true&theme=radical)](https://github.com/taiworoqeeb/github-readme-stats)
+[![Abdulraqeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiworoqeeb&count_private=true&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&langs_count=8&layout=compact)](https://github.com/taiworoqeeb/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiworoqeeb&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/taiworoqeeb/github-readme-stats)
