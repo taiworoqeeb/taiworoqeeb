@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaiworoqeeb%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on the Foodelo app.
-- 🌱 I’m currently learning Flutter for mobile app development.
+- 🔭 I’m currently working on an AI tool app.
+- 🌱 I’m currently learning nothing.
 - 👯 I’m looking to collaborate on potential app development projects.
 - 🤔 I’m looking for help with software development.
 - 💬 Ask me about software development.
