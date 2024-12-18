@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiworoqeeb&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/taiworoqeeb/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=taiworoqeeb&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-weld.vercel.app?user=taiworoqeeb&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **taiworoqeeb/taiworoqeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
